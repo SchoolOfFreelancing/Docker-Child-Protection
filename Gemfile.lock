@@ -362,6 +362,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  actionview
   activerecord-nulldb-adapter
   arabic-letter-connector!
   azure-storage (= 0.15.0.preview)
