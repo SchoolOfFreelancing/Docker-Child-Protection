@@ -3,8 +3,9 @@
 source 'https://rubygems.org'
 ruby '2.6.6'
 
-gem "actionview"
+gem "actionview", ">= 5.2.4.2"
 
+# gem 'actionview', '~> 4.2', '>= 4.2.6'
 
 #Masum
 # gem 'rubocop-performance'
