@@ -3,6 +3,10 @@
 source 'https://rubygems.org'
 ruby '2.6.6'
 
+
+#Masum
+# gem 'rubocop-performance'
+
 gem 'activerecord-nulldb-adapter'      # Running Rake tasks at build time before DB is set up. TODO: Still needed?
 gem 'arabic-letter-connector',         # Arabic letter connector for PDF exports
     git: 'https://github.com/Quoin/arabic-letter-connector',
