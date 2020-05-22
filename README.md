@@ -1,4 +1,4 @@
-Primero
+Primero based software platform for humanitarian protection and social welfare workers.
 ========
 [![Build Status](https://api.travis-ci.org/primeroIMS/primero.svg?branch=development_v2)](https://travis-ci.org/primeroIMS/primero/branches)
 
