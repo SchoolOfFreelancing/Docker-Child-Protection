@@ -144,4 +144,4 @@ For more on making code contributions, have a look at the file [CONTRIBUTING.md]
 
 ## Production
 
-Primero is deployed in production using Docker. Detailed Docker instructions exist in the file [docker/README.md](docker/README.md)
+For deploy in production using Docker visit detailed Docker instructions exist in the file [docker/README.md](docker/README.md)
