@@ -80,7 +80,7 @@
     "idb": "^4.0.4",
     "immutable": "^4.0.0-rc.12",
     "jscpd": "~3.1.0",
-    "jsdom": "^15.1.0",
+    "jsdom": "^16.5.0",
     "jsdom-global": "^3.0.2",
     "jss": "^10.1.1",
     "jss-plugin-extend": "^10.1.1",
